@@ -5,7 +5,7 @@ import { GridComponent, ColumnsDirective, ColumnDirective, Resize, Sort, Context
 const Orders=()=>{
   return(
    <div className="m-2 md:m-10 md:p-10 p-2 rounded-3xl bg-white">
-    <Header category="page" title=" was Sheikh Ahmed k order" />
+    <Header category="page" title="  Sheikh Ahmed k order" />
    
    <GridComponent
 id="gridcomp"
